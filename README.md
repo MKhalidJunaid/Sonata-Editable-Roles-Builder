@@ -1,8 +1,5 @@
-Soanta-Editable-Roles-Builder
-================================
-
 Sonata Admin Override Security Roles Handler
---
+===========================================
 
 In Sonata admin if you wish to override scerurity roles handler you have to override 2 services
 
