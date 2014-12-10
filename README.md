@@ -1,4 +1,4 @@
-Symfony2-override-error-pages
+Soanta-Editable-Roles-Builder
 ================================
 
 Sonata Admin Override Security Roles Handler
